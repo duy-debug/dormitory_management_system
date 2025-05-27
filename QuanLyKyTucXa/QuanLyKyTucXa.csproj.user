@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormKhuPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormNhapThongTinLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormQLKTX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormQLNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormQuanLyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormQuanLyHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormQuanLySinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormSuaThongTInKhu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormSuaThongTinLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormSuaThongTinNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormThemKhuPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormThemNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormThongTinKhuPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormThongTinLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormThongTinNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormXemThongTinSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

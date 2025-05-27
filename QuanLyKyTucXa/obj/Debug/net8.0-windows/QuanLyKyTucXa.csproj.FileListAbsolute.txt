@@ -1,0 +1,378 @@
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Program-Data\Documents\VisualStudio\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Program-Files\TestFile\NEW\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Program-Data\Documents\VisualStudio\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Program-Data\Documents\C_Sharp\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormKhuPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormLoaiPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhapThongTinLoaiPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormQLKTX.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTInKhu.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinLoaiPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemKhuPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinKhuPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinLoaiPhong.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQLNV.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinNV.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemNV.resources
+D:\Program-Files\QuanLyKyTucXa-13HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinNV.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormKhuPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormLoaiPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhapThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormQLKTX.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQLNV.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTInKhu.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinNV.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemKhuPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemNV.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinKhuPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinNV.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Project\QuanLyKyTucXa18HT2\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormKhuPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormLoaiPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhapThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormQLKTX.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQLNV.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTInKhu.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinNV.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemKhuPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemNV.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinKhuPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinNV.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormKhuPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormLoaiPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhapThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormQLKTX.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQLNV.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTInKhu.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinNV.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemKhuPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemNV.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinKhuPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinNV.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormKhuPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormLoaiPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhapThongTinLoaiPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormQLKTX.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQLNV.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTInKhu.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinLoaiPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinNV.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemKhuPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemNV.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinKhuPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinLoaiPhong.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinNV.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+E:\Visual Studio Source\QuanLyKyTucXa - Copy\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.exe
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.deps.json
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.runtimeconfig.json
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.Properties.Resources.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormDangNhap.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormKhuPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormLoaiPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhanVien.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormNhapThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.FormQLKTX.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQLNV.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHoaDon.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLyHopDong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormQuanLySinhVien.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTInKhu.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormSuaThongTinNV.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemKhuPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThemNV.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinKhuPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinLoaiPhong.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormThongTinNV.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.UI.FormXemThongTinSinhVien.resources
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfoInputs.cache
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.AssemblyInfo.cs
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKy.ECDC0342.Up2Date
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
+D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
