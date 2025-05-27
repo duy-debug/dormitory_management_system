@@ -37,23 +37,11 @@ Hệ thống Quản Lý Ký Túc Xá là một ứng dụng Windows Forms đư�
 - Phân quyền theo vai trò (sinh viên, nhân viên, quản lý)
 - Bảo mật thông tin
 
-## Yêu cầu hệ thống
-
-### Phần cứng
-- CPU: Intel Core i3 trở lên
-- RAM: 4GB trở lên
-- Ổ cứng: 500MB trống
-
-### Phần mềm
-- Windows 10 trở lên
-- .NET Framework 4.7.2 trở lên
-- SQL Server 2019 trở lên
-
 ## Cài đặt
 
 1. Clone repository:
 ```bash
-git clone https://github.com/your-username/QuanLyKyTucXa.git
+git clone https://github.com/duy-debug/dormitory_management_system.git
 ```
 
 2. Cài đặt SQL Server và tạo database:
@@ -65,7 +53,7 @@ git clone https://github.com/your-username/QuanLyKyTucXa.git
 - Cập nhật connection string phù hợp với cấu hình SQL Server của bạn
 
 4. Build và chạy project:
-- Mở solution trong Visual Studio
+- Mở solution trong Visual Studio 2022
 - Build solution
 - Chạy ứng dụng
 
@@ -94,18 +82,16 @@ QuanLyKyTucXa/
 
 Mọi đóng góp đều được hoan nghênh! Vui lòng tạo issue hoặc pull request để đóng góp.
 
-## Giấy phép
-
-Project này được phát hành dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
-
 ## Liên hệ
 
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng tạo issue trong repository.
 
 ## Tác giả
 
-- Tên của bạn
-- Email: your.email@example.com
+-Trần Mai Ngọc Duy (Leader)
+-Trần Minh Hoàng
+-Nguyễn Lê Thùy Linh
+-Ngô Văn Lực
 
 ## Lời cảm ơn
 
