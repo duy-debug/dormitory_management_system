@@ -34,7 +34,7 @@ Hệ thống Quản Lý Ký Túc Xá là một ứng dụng Windows Forms đư�
 ### 6. Quản lý Khu
 - Thêm khu   
 - Sửa thông tin khu
-### 6. Hệ thống Đăng nhập và Phân quyền
+### 7. Hệ thống Đăng nhập và Phân quyền
 - Xác thực người dùng
 - Phân quyền theo vai trò (sinh viên, nhân viên, quản lý)
 - Bảo mật thông tin
