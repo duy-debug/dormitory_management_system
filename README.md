@@ -31,7 +31,9 @@ Hệ thống Quản Lý Ký Túc Xá là một ứng dụng Windows Forms đư�
 - Quản lý thông tin nhân viên
 - Phân quyền người dùng
 - Theo dõi công việc của nhân viên
-
+### 6. Quản lý Khu
+- Thêm khu   
+- Sửa thông tin khu
 ### 6. Hệ thống Đăng nhập và Phân quyền
 - Xác thực người dùng
 - Phân quyền theo vai trò (sinh viên, nhân viên, quản lý)
@@ -88,10 +90,10 @@ Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng tạo issue
 
 ## Tác giả
 
--Trần Mai Ngọc Duy (Leader)
--Trần Minh Hoàng
--Nguyễn Lê Thùy Linh
--Ngô Văn Lực
+-Trần Mai Ngọc Duy (Leader) <br>
+-Trần Minh Hoàng<br>
+-Nguyễn Lê Thùy Linh<br>
+-Ngô Văn Lực<br>
 
 ## Lời cảm ơn
 
