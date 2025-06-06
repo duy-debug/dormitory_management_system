@@ -376,3 +376,4 @@ D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\refint\QuanL
 D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.pdb
 D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.genruntimeconfig.cache
 D:\Project\QuanLyKyTucXa (1)\QuanLyKyTucXa\obj\Debug\net8.0-windows\ref\QuanLyKyTucXa.dll
+D:\Project\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\net8.0-windows\QuanLyKyTucXa.sourcelink.json

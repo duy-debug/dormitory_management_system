@@ -20,7 +20,6 @@ namespace QuanLyKyTucXa.UI
             InitializeComponent();
 
             // Đăng ký sự kiện click cho các nút
-            btnThemKhuPhong.Click += BtnThemKhuPhong_Click;
             btnSuaThongTinKhu.Click += BtnSuaThongTinKhu_Click;
             button2.Click += Button2_Click;
 
@@ -164,15 +163,7 @@ namespace QuanLyKyTucXa.UI
             formQLKTX.Show();
         }
 
-        private void BtnThemKhuPhong_Click(object sender, EventArgs e)
-        {
-            // Tạo instance của FormThemKhuPhong và truyền form hiện tại làm parent
-            FormThemKhuPhong formThemKhu = new FormThemKhuPhong(this);
-            formThemKhu.ShowDialog(); // Hiển thị form như một dialog độc lập
-            
-            // Sau khi form đóng, reload lại danh sách khu
-            LoadDanhSachKhu();
-        }
+
 
         private void BtnSuaThongTinKhu_Click(object sender, EventArgs e)
         {

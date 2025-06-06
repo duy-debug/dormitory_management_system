@@ -1,4 +1,5 @@
-﻿CREATE DATABASE QLKTX;
+﻿-- NGUYỄN LÊ THÙY LINH
+CREATE DATABASE QLKTX;
 USE QLKTX;
 CREATE TABLE KHU (
     MaKhu VARCHAR(3) PRIMARY KEY,
@@ -297,7 +298,9 @@ INSERT INTO dbo.NguoiDung (TenDangNhap, MatKhau, VaiTro, MaSV)
 VALUES
   ('SV000001', 'SV@123', N'Sinh viên', 'SV000001'),
   ('SV000002', 'SV@123', N'Sinh viên', 'SV000002');
---Lực
+
+
+--NGÔ VĂN LỰC
 -- Phân Quyền 3 User
 --Tạo 3 database role
 IF NOT EXISTS (SELECT * FROM sys.database_principals WHERE name = N'QuanTri')
@@ -469,12 +472,12 @@ EXEC sp_addrolemember N'QuanTri',   N'admin1';
 GO
 
 -- Nhân viên
-IF NOT EXISTS (SELECT * FROM sys.server_principals WHERE name = N'nv1')
+IF NOT EXISTS (SELECT * FROM sys.server_principals WHERE name = N'nv2')
 BEGIN
-    CREATE LOGIN [nv1] WITH PASSWORD = N'NV@123';
-    CREATE USER  [nv1] FOR LOGIN [nv1];
+    CREATE LOGIN [nv2] WITH PASSWORD = N'NV@123';
+    CREATE USER  [nv2] FOR LOGIN [nv2];
 END
-EXEC sp_addrolemember N'NhanVien',  N'nv1';
+EXEC sp_addrolemember N'NhanVien',  N'nv2';
 GO
 
 -- Sinh viên
@@ -486,12 +489,12 @@ END
 EXEC sp_addrolemember N'SinhVien',  N'SV000001';
 GO
 
---HOÀNG
+-- TRẦN MINH HOÀNG
 -- Truy vấn đơn giản
---Hiển thị thông tin sinh viên nữ đang ở KTX
-SELECT MaSV, HovaTenLot, Ten, NgaySinh, Email
+-- Liệt kê thông tin các sinh viên nữ ở tầng 2 của khu A01
+SELECT MaSV, CONCAT(HovaTenLot, ' ', Ten) AS HoTen, NgaySinh, Email
 FROM SinhVien
-WHERE GioiTinh = N'Nữ';
+WHERE MaKhu = 'A01' AND MaTang = 2 AND GioiTinh = N'Nữ';
 
 --Liệt kê các phòng có giá phòng trên 1.5 triệu
 SELECT MaKhu, MaTang, MaPhong, GiaPhong, SucChua
@@ -511,10 +514,12 @@ SELECT MaKhu, COUNT(*) as SoLuongSV
 FROM SinhVien
 GROUP BY MaKhu;
 
--- Tính giá phòng trung bình theo từng khu
-SELECT MaKhu, AVG(GiaPhong) as GiaPhongTrungBinh
-FROM Phong
-GROUP BY MaKhu;
+-- Thống kê số lượng phòng trống (chưa có sinh viên) trong từng tầng
+SELECT p.MaKhu, p.MaTang, COUNT(p.MaPhong) AS SoPhongTrong
+FROM Phong p
+LEFT JOIN SinhVien sv ON p.MaKhu = sv.MaKhu AND p.MaTang = sv.MaTang AND p.MaPhong = sv.MaPhong
+GROUP BY p.MaKhu, p.MaTang
+HAVING COUNT(sv.MaSV) = 0;
 
 --Thống kê số lượng phòng theo sức chứa
 SELECT SucChua, COUNT(*) as SoLuongPhong
@@ -522,11 +527,11 @@ FROM Phong
 GROUP BY SucChua
 ORDER BY SucChua;
 
---Tính tổng tiêu thụ điện của từng khu trong tháng 3/2025
-SELECT h.MaKhu, SUM(h.ChiSoCuoi - h.ChiSoDau) as TongTieuThuDien
-FROM HoaDon h
-WHERE h.MaDV = 'DV001' AND h.Thang = 3 AND h.Nam = 2025
-GROUP BY h.MaKhu;
+-- Tính số lượng sinh viên thuộc từng mức ưu tiên, kèm % giảm tương ứng
+SELECT qt.MaUuTien, qt.MoTa, qt.PhanTramGiam, COUNT(sv.MaSV) AS SoSinhVien
+FROM QuyDinhUuTien qt
+LEFT JOIN SinhVien sv ON qt.MaUuTien = sv.MaUuTien
+GROUP BY qt.MaUuTien, qt.MoTa, qt.PhanTramGiam;
 
 --Thống kê số lượng sinh viên theo từng loại ưu tiên
 SELECT ut.MoTa, COUNT(sv.MaSV) as SoLuongSV
@@ -540,10 +545,11 @@ FROM Phong
 GROUP BY MaKhu, MaTang
 ORDER BY MaKhu, MaTang;
 
---Thống kê số lượng quản lý theo giới tính
-SELECT GioiTinh, COUNT(*) as SoLuongQuanLy
-FROM QuanLiKTX
-GROUP BY GioiTinh;
+-- Tính tổng tiền điện/nước sử dụng theo từng phòng trong một tháng cụ thể
+SELECT MaKhu, MaTang, MaPhong, SUM((ChiSoCuoi - ChiSoDau) * 3000) AS TienDV
+FROM HoaDon
+WHERE Thang = 5 AND Nam = 2025
+GROUP BY MaKhu, MaTang, MaPhong;
 
 --Truy vấn với mệnh đề HAVING
 --Tìm các khu có trên 3 sinh viên đang ở
@@ -558,25 +564,28 @@ FROM Phong
 GROUP BY MaKhu, MaTang
 HAVING SUM(GiaPhong) > 5000000;
 
---Tìm các phòng có mức tiêu thụ điện trung bình trên 30 đơn vị/tháng
+--Tìm các phòng có mức tiêu thụ điện trung bình trên 25 đơn vị/tháng
 SELECT MaKhu, MaTang, MaPhong, AVG(ChiSoCuoi - ChiSoDau) as TrungBinhTieuThu
 FROM HoaDon
 WHERE MaDV = 'DV001'
 GROUP BY MaKhu, MaTang, MaPhong
-HAVING AVG(ChiSoCuoi - ChiSoDau) > 30;
+HAVING AVG(ChiSoCuoi - ChiSoDau) > 25;
 
---Hiển thị các khu có ít nhất 2 quản lý
-SELECT MaKhu, COUNT(*) as SoLuongQL
-FROM QuanLiKTX
-GROUP BY MaKhu
-HAVING COUNT(*) >= 2;
+--Liệt kê các tầng có nhiều hơn 2 phòng chưa có sinh viên nào ở (phòng trống)
+SELECT p.MaKhu, p.MaTang, COUNT(p.MaPhong) AS SoPhongTrong
+FROM Phong p
+LEFT JOIN SinhVien sv ON p.MaKhu = sv.MaKhu AND p.MaTang = sv.MaTang AND p.MaPhong = sv.MaPhong
+WHERE sv.MaSV IS NULL
+GROUP BY p.MaKhu, p.MaTang
+HAVING COUNT(p.MaPhong) > 2;
 
---Tìm các tầng có nhiều hơn 3 sinh viên có ưu tiên
+--Tìm các tầng có nhiều hơn 2 sinh viên có ưu tiên
 SELECT MaKhu, MaTang, COUNT(*) as SoSVUuTien
 FROM SinhVien
 WHERE MaUuTien != 'UT0'
 GROUP BY MaKhu, MaTang
-HAVING COUNT(*) > 3;
+HAVING COUNT(*) > 2;
+
 
 --DUY
 --Truy vấn lớn nhất, nhỏ nhất (3 câu)
@@ -584,10 +593,25 @@ HAVING COUNT(*) > 3;
 SELECT TOP 1 * 
 FROM Phong
 ORDER BY GiaPhong DESC;
---Sinh viên lớn tuổi nhất
-SELECT * 
-FROM SinhVien
-WHERE NgaySinh = (SELECT MIN(NgaySinh) FROM SinhVien);
+
+--Phòng có tiền nước thấp nhất trong tháng 5/2025
+SELECT TOP 1 hd.MaKhu, hd.MaTang, hd.MaPhong,
+       (hd.ChiSoCuoi - hd.ChiSoDau) * 3000 AS TienNuoc
+FROM HoaDon hd
+JOIN DichVu dv ON hd.MaDV = dv.MaDV
+WHERE dv.TenDV = 'Nước' AND hd.Thang = 5 AND hd.Nam = 2025
+ORDER BY TienNuoc ASC;
+
+-- Phong tiêu thụ điện nhiều nhất trong năm 2025
+SELECT TOP 1 hd.MaKhu, hd.MaTang, hd.MaPhong,
+    (hd.ChiSoCuoi - hd.ChiSoDau) AS TieuThuDien
+FROM DichVu dv
+JOIN HoaDon hd ON hd.MaDV = dv.MaDV
+WHERE hd.Nam = 2025 
+    AND dv.TenDV = 'Điện' 
+    AND dv.DonViTinh = 'kWh'
+ORDER BY TieuThuDien DESC;
+
 --Tầng có số lượng phòng nhiều nhất
 SELECT TOP 1 *
 FROM Tang
@@ -632,8 +656,7 @@ EXCEPT
 SELECT * FROM SinhVien WHERE MaKhu = 'K1';
 
 
-
---LINH
+--NGUYỄN LÊ THÙY LINH
 --1 Cập nhật số điện thoại của quản lý K8
 UPDATE QuanLiKTX SET SDT = '0912345679' WHERE MaKhu = 'K8' AND MaQuanLi = 'QL8';
 --2 Cập nhật giá phòng của phòng 'K2', tầng 1, phòng 1 lên 1.300.000
@@ -821,34 +844,36 @@ END;
 --Trigger 
 
 go
---1. trg_KiemTraSucChua: Ngăn thêm sinh viên nếu phòng đã đầy
+--1. trg_KiemTraSucChua: Ngăn thêm sinh viên nếu phòng đã đầy (kiểm tra só lượng sinh viên thêm vào có vượt quá sức chưa của phòng không )
 IF EXISTS (SELECT * FROM SYSOBJECTS WHERE type = 'TR' AND name = 'trg_KiemTraSucChua')
 DROP TRIGGER trg_KiemTraSucChua
 GO
 CREATE TRIGGER trg_KiemTraSucChua
 ON SinhVien
-INSTEAD OF INSERT
+FOR INSERT
 AS
 BEGIN
-    IF EXISTS (
+	IF EXISTS (
         SELECT 1
-        FROM INSERTED i
-        JOIN (
-            SELECT MaKhu, MaTang, MaPhong, COUNT(*) AS SoSV
+        FROM (
+            SELECT 
+                i.MaKhu, i.MaTang, i.MaPhong,
+                COUNT(*) AS SoSVMoi
+            FROM INSERTED i
+            GROUP BY i.MaKhu, i.MaTang, i.MaPhong
+        ) moi
+        LEFT JOIN (
+            SELECT 
+                MaKhu, MaTang, MaPhong,
+                COUNT(*) AS SoSVDaCo
             FROM SinhVien
             GROUP BY MaKhu, MaTang, MaPhong
-        ) s ON i.MaKhu = s.MaKhu AND i.MaTang = s.MaTang AND i.MaPhong = s.MaPhong
-        JOIN Phong p ON p.MaKhu = i.MaKhu AND p.MaTang = i.MaTang AND p.MaPhong = i.MaPhong
-        WHERE s.SoSV >= p.SucChua
+        ) cu ON moi.MaKhu = cu.MaKhu AND moi.MaTang = cu.MaTang AND moi.MaPhong = cu.MaPhong
+        JOIN Phong p ON p.MaKhu = moi.MaKhu AND p.MaTang = moi.MaTang AND p.MaPhong = moi.MaPhong
+        WHERE (moi.SoSVMoi + cu.SoSVDaCo) > p.SucChua
     )
     BEGIN
-        RAISERROR(N'Phòng đã đủ sinh viên!', 16, 1);
         ROLLBACK TRANSACTION;
-    END
-    ELSE
-    BEGIN
-        INSERT INTO SinhVien
-        SELECT * FROM INSERTED;
     END
 END;
 --2. trg_TaoNguoiDungKhiThemSinhVien: Tạo tài khoản khi thêm sinh viên
@@ -887,7 +912,7 @@ go
 
 CREATE TRIGGER trg_KiemTraHoaDon_Insert
 ON HoaDon
-INSTEAD OF INSERT
+FOR INSERT
 AS
 BEGIN
     IF EXISTS (
@@ -897,17 +922,9 @@ BEGIN
             OR MaDV NOT IN ('DV001', 'DV002')
     )
     BEGIN
-        RAISERROR(N'Dữ liệu không hợp lệ: Chi số cuối phải >= chi số đầu, dịch vụ phải là DV001 (điện) hoặc DV002 (nước).', 16, 1);
-        ROLLBACK;
-        RETURN;
+        ROLLBACK TRANSACTION;
     END;
-
-    -- Nếu dữ liệu hợp lệ thì chèn vào bảng
-    INSERT INTO HoaDon (MaKhu, MaTang, MaPhong, Thang, Nam, MaDV, ChiSoDau, ChiSoCuoi)
-    SELECT MaKhu, MaTang, MaPhong, Thang, Nam, MaDV, ChiSoDau, ChiSoCuoi
-    FROM inserted;
 END;
-
 
 --LỰC
 -- h Truy vấn 2 câu sử dụng phép chia

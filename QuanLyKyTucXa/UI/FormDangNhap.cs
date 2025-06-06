@@ -85,5 +85,37 @@ namespace QuanLyKyTucXa
         {
             this.Close();
         }
+
+        private void linklabelThongTin_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            // Đường dẫn đến file gốc trong ổ D:
+            string sourceFilePath = @"D:\THÔNG BÁO.pdf";
+
+            if (File.Exists(sourceFilePath))
+            {
+                using (SaveFileDialog saveFileDialog = new SaveFileDialog())
+                {
+                    saveFileDialog.Filter = "PDF files (*.pdf)|*.pdf";
+                    saveFileDialog.FileName = "THÔNG BÁO.pdf";
+
+                    if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        try
+                        {
+                            File.Copy(sourceFilePath, saveFileDialog.FileName, overwrite: true);
+                            MessageBox.Show("Sao chép thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show("Lỗi khi sao chép: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Không tìm thấy file nguồn tại: " + sourceFilePath, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }

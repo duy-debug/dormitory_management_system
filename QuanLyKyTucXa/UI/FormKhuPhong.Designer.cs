@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            btnThemKhuPhong = new Button();
             btnSuaThongTinKhu = new Button();
             button2 = new Button();
             button1 = new Button();
@@ -52,17 +51,6 @@
             label1.Size = new Size(184, 46);
             label1.TabIndex = 0;
             label1.Text = "Khu Phòng";
-            // 
-            // btnThemKhuPhong
-            // 
-            btnThemKhuPhong.BackColor = Color.Cyan;
-            btnThemKhuPhong.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            btnThemKhuPhong.Location = new Point(850, 28);
-            btnThemKhuPhong.Name = "btnThemKhuPhong";
-            btnThemKhuPhong.Size = new Size(200, 45);
-            btnThemKhuPhong.TabIndex = 17;
-            btnThemKhuPhong.Text = "THÊM KHU";
-            btnThemKhuPhong.UseVisualStyleBackColor = false;
             // 
             // btnSuaThongTinKhu
             // 
@@ -186,7 +174,6 @@
             Controls.Add(button1);
             Controls.Add(button2);
             Controls.Add(btnSuaThongTinKhu);
-            Controls.Add(btnThemKhuPhong);
             Controls.Add(label1);
             Name = "FormKhuPhong";
             StartPosition = FormStartPosition.CenterScreen;
@@ -199,7 +186,6 @@
         #endregion
 
         private Label label1;
-        private Button btnThemKhuPhong;
         private Button btnSuaThongTinKhu;
         private Button button2;
         private Button button1;

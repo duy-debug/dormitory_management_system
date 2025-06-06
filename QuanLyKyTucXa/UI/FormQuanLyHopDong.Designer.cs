@@ -278,10 +278,10 @@ namespace QuanLyKyTucXa.UI
             // 
             // btnGiaHan
             // 
-            btnGiaHan.BackColor = Color.FromArgb(255, 128, 0);
+            btnGiaHan.BackColor = SystemColors.ButtonFace;
             btnGiaHan.FlatStyle = FlatStyle.Flat;
             btnGiaHan.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            btnGiaHan.ForeColor = Color.White;
+            btnGiaHan.ForeColor = SystemColors.ButtonFace;
             btnGiaHan.Location = new Point(569, 4);
             btnGiaHan.Margin = new Padding(3, 4, 3, 4);
             btnGiaHan.Name = "btnGiaHan";

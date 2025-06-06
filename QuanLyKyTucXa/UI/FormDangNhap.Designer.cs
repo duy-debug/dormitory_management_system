@@ -35,6 +35,7 @@
             txbmatkhau = new TextBox();
             label3 = new Label();
             button1 = new Button();
+            linklabelThongTin = new LinkLabel();
             SuspendLayout();
             // 
             // btnDangNhap
@@ -110,12 +111,26 @@
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
+            // linklabelThongTin
+            // 
+            linklabelThongTin.AutoSize = true;
+            linklabelThongTin.BackColor = SystemColors.Control;
+            linklabelThongTin.Font = new Font("Times New Roman", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            linklabelThongTin.Location = new Point(53, 94);
+            linklabelThongTin.Name = "linklabelThongTin";
+            linklabelThongTin.Size = new Size(306, 33);
+            linklabelThongTin.TabIndex = 6;
+            linklabelThongTin.TabStop = true;
+            linklabelThongTin.Text = "THÔNG TIN MỚI NHẤT ";
+            linklabelThongTin.LinkClicked += linklabelThongTin_LinkClicked;
+            // 
             // FormDangNhap
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Banner;
             ClientSize = new Size(797, 517);
+            Controls.Add(linklabelThongTin);
             Controls.Add(button1);
             Controls.Add(txbmatkhau);
             Controls.Add(txbtendangnhap);
@@ -139,5 +154,6 @@
         private TextBox txbmatkhau;
         private Label label3;
         private Button button1;
+        private LinkLabel linklabelThongTin;
     }
 }
