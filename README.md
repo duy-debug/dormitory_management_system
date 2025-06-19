@@ -71,7 +71,6 @@ QuanLyKyTucXa/
 ├── Resources/            # Tài nguyên (hình ảnh, icons)
 └── Properties/           # Cấu hình project
 ```
-
 ## Công nghệ sử dụng
 
 - C# (.NET Framework)
@@ -79,22 +78,9 @@ QuanLyKyTucXa/
 - SQL Server
 - Entity Framework
 - ADO.NET
-
-## Đóng góp
-
-Mọi đóng góp đều được hoan nghênh! Vui lòng tạo issue hoặc pull request để đóng góp.
-
-## Liên hệ
-
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng tạo issue trong repository.
-
 ## Tác giả
-
 -Trần Mai Ngọc Duy (Leader) <br>
 -Trần Minh Hoàng<br>
 -Nguyễn Lê Thùy Linh<br>
 -Ngô Văn Lực<br>
 
-## Lời cảm ơn
-
-Cảm ơn tất cả những người đã đóng góp vào project này. 
